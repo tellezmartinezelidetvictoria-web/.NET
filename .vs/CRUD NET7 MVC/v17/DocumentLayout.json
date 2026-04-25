@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|c:\\users\\pc\\source\\repos\\crud net7 mvc\\crud net7 mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB1240-049E-40CC-9A9A-6B02CE2ECD7E}|CRUD NET7 MVC\\CRUD NET7 MVC.csproj|solutionrelative:crud net7 mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "CRUD NET7 MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T04:16:42.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Views\\Inicio\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeToolTip": "CRUD NET7 MVC\\Views\\Inicio\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T04:10:11.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "CRUD NET7 MVC\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T03:52:25.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Models\\Contacto.cs",
+              "RelativeToolTip": "CRUD NET7 MVC\\Models\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:22:45.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AplicationDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Datos\\AplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Datos\\AplicationDbcontext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Datos\\AplicationDbcontext.cs",
+              "RelativeToolTip": "CRUD NET7 MVC\\Datos\\AplicationDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:25:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "CRUD NET7 MVC\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T03:19:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeToolTip": "CRUD NET7 MVC\\Views\\Inicio\\Crear.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T03:18:51.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Program.cs",
+              "RelativeToolTip": "CRUD NET7 MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T02:17:06.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "CRUD NET7 MVC\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD NET7 MVC\\CRUD NET7 MVC\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "CRUD NET7 MVC\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T02:17:03.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

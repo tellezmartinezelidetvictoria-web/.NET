@@ -1,0 +1,33 @@
+﻿@model CRUD_NET7_MVC.models.Contacto
+@{
+    ViewData["Title"] = "Detallle contacto";
+}
+
+<h1>Crear contacto</h1>
+<div class="row">
+    <div class="offset-9 col-3 mb-3">
+        <a asp-action="crear" asp-controller="Inicio" class="btn-secondary d-block mx-auto btn-lg"> <i class="bi bi-file-plus-fill"</i>Nuevo Usuario</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="card-header bg-dark">
+                <h3 class="text-white"><strong>Detallle usuarios</strong></h3>
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+					<li class="list-group">
+						<strong>Nombre:</strong>@Html.DisplayFor(m => m.Nombre)
+						<strong>Telefono:</strong>@Html.DisplayFor(m => m.Telefono)
+						<strong>Movil:</strong>@Html.DisplayFor(m => m.Movil)
+						<strong>Email:</strong>@Html.DisplayFor(m => m.Email)
+                    </li>
+                    </ul>
+                <a asp-controller="Inicio" asp-action="Index">volver</a>
+
+            </div>
+        </div>
+    </div>
+</div>
